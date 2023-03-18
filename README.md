@@ -10,7 +10,9 @@ Redactar una introducción al proyecto.
 
 ## 2. Objetivos
 
-Redactar los objetivos del proyecto.
+El objetivo de este proyecto es hacer una herramienta para poder facilitar las compras de la gente, así como poder localizar los lugares más cercanos para poder abastecerse de lo que necesiten, este proyecto no solo llevará eso, sino que también se podrá visualizar el precio de los productos de distintas tiendas para poder ver la diferencia de precios y el lugar donde es más conveniente comprar.
+El objetivo para los alumnos encargados de este proyecto es dar a conocer la importancia del trabajo en equipo, así como la comunicación y colaboración del mismo. Además de reforzar la confianza de los alumnos del grupo.
+
 
 ## 3. Integrantes
 
